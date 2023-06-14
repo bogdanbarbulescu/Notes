@@ -1,0 +1,19 @@
+
+- [ ] Schedule and Complete Your One-On-One Coaching Call
+- [ ] Complete the PNPT Coursework
+- [ ] Practical Ethical Hacking
+- [ ] Windows Privilege Escalation
+- [ ] Linux Privilege Escalation
+- [x] Open-Source Intelligence (OSINT) Fundamentals ✅ 2023-04-18
+- [ ] External Pentest Playbook
+- [ ] Complete Your PNPT Exam 
+- [ ] Schedule and Complete your PNPT Debrief
+- [ ] Earn Your PNPT Certification! 
+- [ ] Complete the Career Services Coursework
+- [ ] Prepare and Submit Your Resume for Initial Review
+- [ ] Adjust Your Resume Based on Feedback and Save This as a Master Copy
+- [ ] Head to www.pastamentor.com to Begin Your Mock Interview Process
+- [ ] Prepare Your Resume and Apply for any Open Position Under the Careers Section of the Website 
+- [ ] Schedule Your Mock Interview
+- [ ] Prepare and Participate in Your Mock Interview
+- [ ] Earn Your PCRP Certification!
