@@ -1,6 +1,6 @@
 # Intro
 [Intro To Docker]()
-[Containers Essentials]()
+[Containers Essentials](Docker/C1. Containers Essentials - Docker.md)
 [Docker](Docker/C1. Containers Essentials - Docker.md)
 [Docker/C2. Imagini si containere Docker.md]
 Docker/C3. Spațiu de stocare containere.md
