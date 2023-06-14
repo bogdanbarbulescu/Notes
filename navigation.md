@@ -1,9 +1,9 @@
 # Intro
-[Intro To Docker]()
-[Containers Essentials](Docker/C1. Containers Essentials - Docker.md)
-[Docker](Docker/C1. Containers Essentials - Docker.md)
-[Docker/C2. Imagini si containere Docker.md]
-Docker/C3. Spațiu de stocare containere.md
-[Docker]/(C4. Rețele containere.md)
- 
-[Hi] ()
+[Intro To SOC]()
+
+  - [Linux CLI](Tools/IntroClass/LinuxCLI/LinuxCLI.md)
+  - [Memory Analysis](Tools/IntroClass/Memory/MemoryAnalysis.md)
+  - [TCPDump](Tools/IntroClass/TCPDump/TCPDump.md)
+  - [Web Log Review](Tools/IntroClass/WebLogReview/WebLogReview.md)
+  - [WindowsCLI](Tools/IntroClass/WindowsCLI/WindowsCLI.md)
+  - [Wireshark](Tools/IntroClass/Wireshark/Wireshark.md)
