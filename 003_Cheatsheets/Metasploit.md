@@ -1,7 +1,5 @@
-
 # Metasploit Cheat Sheet
 
-By Ed Skoudis and Yori Kvitchko
 
 ## Useful Auxiliary Modules
 
