@@ -18,6 +18,12 @@
 ## Networking
   - [CCNA](004_Networking/CCNA.md)
 
+## Web
+  - [Web dev](006_Web/Web_dev.md)
+
+## Programming
+  - [Python](008_Programming/Python.md)
+
 ## Data Science
   - [Data Science](014_Data_Science/Data_Science.md)
 
@@ -44,6 +50,7 @@
 
 ## Certifications
   - [BTL1](013_Certifications/BTL1.md)
+  - [CCNA](004_Networking/CCNA.md)
   - [CCD](013_Certifications/CCD.md)
   - [eJPT](013_Certifications/eJPT.md)
   - [OSCP](013_Certifications/OSCP.md)
