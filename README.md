@@ -10,6 +10,7 @@
 
 [Cheatsheets]()
   - [Metasploit](003_Cheatsheets/Metasploit.md)
+  - [Ubuntu](003_Cheatsheets/Ubuntu.md)
 
 [Networking]()
   - [CCNA](004_Networking/CCNA.md)
