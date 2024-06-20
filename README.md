@@ -40,3 +40,8 @@
   - [The XSS rat](https://www.youtube.com/@TheXSSrat/playlists)
   - [Tyler Ramsbey](https://www.youtube.com/@TylerRamsbey/playlists)
 
+## Certifications
+  - [BTL1](013_Certifications/BTL1.md)
+  - [CCD](013_Certifications/CCD.md)
+  - [eJPT](013_Certifications/eJPT.md)
+  - [OSCP](013_Certifications/OSCP.md)
