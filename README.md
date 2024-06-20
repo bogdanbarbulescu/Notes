@@ -11,6 +11,8 @@
 
 ## Cheatsheets
   - [Metasploit](003_Cheatsheets/Metasploit.md)
+  - [Mitm](003_Cheatsheets/Mitm.md)
+  - [Regex](003_Cheatsheets/Regex.md)
   - [Ubuntu](003_Cheatsheets/Ubuntu.md)
 
 ## Networking
