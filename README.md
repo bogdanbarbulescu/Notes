@@ -7,3 +7,6 @@
 
 [Blue Team]()
   - [Introduction to Blue Teaming](Docker/C1.Containers_Essentials-Docker.md)
+
+[Cheatsheets]()
+  - [Metasploit](003_Cheatscheets/Metasploit_Cheat_Sheet.md)
